@@ -1,6 +1,6 @@
 # ☠️ kill finder
 
-Simple Mac utility to kill all Finder windows! (This actually isn't too useful, as it built into macOS)
+Simple Mac utility to kill all Finder windows!
 
 ## Usage
 
